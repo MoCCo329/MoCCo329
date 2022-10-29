@@ -1,24 +1,44 @@
 ### Hi there 👋
 
+궁금한 건 꼭 해보고 싶은 MoCCo의 github입니다.
 
+<hr>
 
+### Tools
 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+
+<hr>
+
+### Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d329days)](https://solved.ac/d329days/)
 
+<hr>
 
+### What I Learned(Today I Learned)
 
-<!--
-**MoCCo329/MoCCo329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [algorithm](https://github.com/MoCCo329/TIL/tree/master/algorithm)
 
-Here are some ideas to get you started:
+- [python](https://github.com/MoCCo329/TIL/tree/master/python)
+- [javascript](https://github.com/MoCCo329/TIL/tree/master/javascript)
+- [html_css](https://github.com/MoCCo329/TIL/tree/master/html_css)
+- [git](https://github.com/MoCCo329/TIL/tree/master/git)
+- [vue](https://github.com/MoCCo329/TIL/tree/master/vue)
+- [django](https://github.com/MoCCo329/TIL/tree/master/django)
+- [db](https://github.com/MoCCo329/TIL/tree/master/db)
+- [nft](https://github.com/MoCCo329/TIL/tree/master/nft)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
