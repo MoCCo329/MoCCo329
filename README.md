@@ -57,7 +57,7 @@
 ### Projects
 
 <div style="background-color: #e2e2e2;" >
-    <h3>1. EURACHACHA - 영화 추천기능이 있는 영화 커뮤니티 사이트</h5>
+    <a href="https://github.com/MoCCo329/EURACHACHA" style="text-decoration: none"><h3>1. EURACHACHA - 영화 추천기능이 있는 영화 커뮤니티 사이트</h5></a>
     <img src="https://user-images.githubusercontent.com/97646630/198865848-1951cd78-c0fc-46cd-9def-4a3748b8137b.png" width="100%" >
     <p>기간: 2022.05.20 ~ 2022.05.26</p>
     <p>인원: 프론트앤드1, 백엔드1</p>
@@ -80,7 +80,7 @@
 <br>
 
 <div style="background-color: #e2e2e2;" >
-    <h3>2. PhoRest - 웹서비스가 추가된 사진부스</h5>
+    <a href="https://github.com/MoCCo329/PhoRest" style="text-decoration: none"><h3>2. PhoRest - 웹서비스가 추가된 사진부스</h5></a>
     <img src="https://user-images.githubusercontent.com/97646630/198865757-b9e4c5df-d520-495d-82e0-0a14753f18d9.png" width="100%">
     <p>기간: 2022.07.05 ~ 2022.08.19</p>
     <p>인원: 프론트앤드2, 백엔드2, Embedded2</p>
@@ -101,11 +101,11 @@
 </div>
 
 
+
 <br>
 
 <div style="background-color: #e2e2e2;">
-    <img scr=>
-    <h3>3. ImTeller - NFT그림을 활용 할 수 있는 보드게임서비스</h5>
+    <a href="https://github.com/MoCCo329/ImTeller" style="text-decoration: none"><h3>3. ImTeller - NFT그림을 활용 할 수 있는 보드게임 서비스</h5></a>
     <img src="https://user-images.githubusercontent.com/97646630/198865662-76d4cfde-0fef-4514-aabf-9ead5d32474f.png" width="100%">
     <p>기간: 2022.08.22 ~ 2022.10.07</p>
     <p>인원: 프론트앤드2, 백엔드2, SmartContract1</p>
@@ -123,4 +123,3 @@
         <li>Ethereum Network, Web3</li>
     </ul>
 </div>
-
