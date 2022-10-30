@@ -61,7 +61,7 @@
 <br>
 
 
-#### 1. EURACHACHA - 영화 추천기능이 있는 영화 커뮤니티 사이트 [링크]("https://github.com/MoCCo329/EURACHACHA")
+#### 1. EURACHACHA - 영화 추천기능이 있는 영화 커뮤니티 사이트 [링크](https://github.com/MoCCo329/EURACHACHA)
 
 <img src="https://user-images.githubusercontent.com/97646630/198865848-1951cd78-c0fc-46cd-9def-4a3748b8137b.png" width="100%" >
 
