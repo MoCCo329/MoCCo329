@@ -56,7 +56,7 @@
 
 ### Projects
 
-<div style="bolder: 2px solid;" >
+<div style="background-color: #e2e2e2;" >
     <h5>1. EURACHACHA - 영화 추천기능이 있는 영화 커뮤니티 사이트</h5>
     <p>기간: 2022.05.20 ~ 2022.05.26</p>
     <p>인원: 프론트앤드1, 백엔드1</p>
@@ -76,9 +76,9 @@
     </ul>
 </div>
 
+<br>
 
-
-<div style="bolder: 2px solid;" >
+<div style="background-color: #e2e2e2;" >
     <h5>2. PhoRest - 웹서비스가 추가된 사진부스</h5>
     <p>기간: 2022.07.05 ~ 2022.08.19</p>
     <p>인원: 프론트앤드2, 백엔드2, Embedded2</p>
@@ -98,9 +98,9 @@
     </ul>
 </div>
 
+<br>
 
-
-<div style="bolder: 2px solid;" >
+<div style="background-color: #e2e2e2;" >
     <h5>3. ImTeller - NFT그림을 활용 할 수 있는 보드게임서비스</h5>
     <p>기간: 2022.08.22 ~ 2022.10.07</p>
     <p>인원: 프론트앤드2, 백엔드2, SmartContract1</p>
@@ -118,3 +118,4 @@
         <li>Ethereum Network, Web3</li>
     </ul>
 </div>
+
