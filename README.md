@@ -54,72 +54,70 @@
 
 <hr>
 
+
+
 ### Projects
 
-<div style="background-color: #e2e2e2;" >
-    <a href="https://github.com/MoCCo329/EURACHACHA" style="text-decoration: none"><h3>1. EURACHACHA - 영화 추천기능이 있는 영화 커뮤니티 사이트</h5></a>
-    <img src="https://user-images.githubusercontent.com/97646630/198865848-1951cd78-c0fc-46cd-9def-4a3748b8137b.png" width="100%" >
-    <p>기간: 2022.05.20 ~ 2022.05.26</p>
-    <p>인원: 프론트앤드1, 백엔드1</p>
-    <p>기술: Vue, Django, SQLite, Git, GitHub</p>
-    <p>서비스 내용</p>
-    <ul>
-        <li>취향이 비슷한 사람이 좋아요한 영화를 추천</li>
-        <li>간단한 설문에 부합하는 영화를 그때그때 추천</li>
-        <li>영화 검색, 리뷰 및 평점 남기기와 게시글 및 댓글 CRUD, 좋아요</li>
-    </ul>
-    <p>배운 내용</p>
-    <ul>
-        <li>서비스 기획, 설계, 개발 등 프로젝트 진행 방식</li>
-        <li>Vue, Ajax요청을 통한 SPA제작</li>
-        <li>Vuex를 통한 상태관리</li>
-        <li>추천방식과 그 구현방식 고안</li>
-    </ul>
-</div>
+<br>
+
+
+#### 1. EURACHACHA - 영화 추천기능이 있는 영화 커뮤니티 사이트 [링크]("https://github.com/MoCCo329/EURACHACHA")
+
+<img src="https://user-images.githubusercontent.com/97646630/198865848-1951cd78-c0fc-46cd-9def-4a3748b8137b.png" width="100%" >
+
+기간: 2022.05.20 ~ 2022.05.26
+인원: 프론트앤드1, 백엔드1
+기술: Vue, Django, SQLite, Git, GitHub
+서비스 내용
+
+- 취향이 비슷한 사람이 좋아요한 영화를 추천
+- 간단한 설문에 부합하는 영화를 그때그때 추천
+- 영화 검색, 리뷰 및 평점 남기기와 게시글 및 댓글 CRUD, 좋아요
+
+배운 내용
+
+- 서비스 기획, 설계, 개발 등 프로젝트 진행 방식
+- Vue, Ajax요청을 통한 SPA제작
+- Vuex를 통한 상태관리
+- 추천방식과 그 구현방식 고안
 
 <br>
 
-<div style="background-color: #e2e2e2;" >
-    <a href="https://github.com/MoCCo329/PhoRest" style="text-decoration: none"><h3>2. PhoRest - 웹서비스가 추가된 사진부스</h5></a>
-    <img src="https://user-images.githubusercontent.com/97646630/198865757-b9e4c5df-d520-495d-82e0-0a14753f18d9.png" width="100%">
-    <p>기간: 2022.07.05 ~ 2022.08.19</p>
-    <p>인원: 프론트앤드2, 백엔드2, Embedded2</p>
-    <p>기술: React, Spring Boot, MySQL, PyQT, AWS, NginX, Jenkins, GitLab, Jira</p>
-    <p>서비스 내용</p>
-    <ul>
-        <li>인원수에 맞는 추천 포즈를 보며 사진촬영 및 인쇄</li>
-        <li>사진공유 관리 및 다른사람 팔로우</li>
-        <li>프레임 제작 및 적용</li>
-        <li>일정 시간이 지나면 추억회상 카카오톡 알림</li>
-    </ul>
-    <p>배운 내용</p>
-    <ul>
-        <li>React를 통한 FE 구현</li>
-        <li>Redux를 활용한 상태관리</li>
-        <li>SMS를 통한 핸드폰번호 확인, 카카오 로그인, JWT 등의 Auth</li>
-    </ul>
-</div>
+#### 2. PhoRest - 웹서비스가 추가된 사진부스 [링크](https://github.com/MoCCo329/PhoRest)
+<img src="README.assets/198865757-b9e4c5df-d520-495d-82e0-0a14753f18d9.png" width="100%">
+기간: 2022.07.05 ~ 2022.08.19
+인원: 프론트앤드2, 백엔드2, Embedded2
+기술: React, Spring Boot, MySQL, PyQT, AWS, NginX, Jenkins, GitLab, Jira
+서비스 내용
 
+- 인원수에 맞는 추천 포즈를 보며 사진촬영 및 인쇄
+- 사진공유 관리 및 다른사람 팔로우
+- 프레임 제작 및 적용
+- 일정 시간이 지나면 추억회상 카카오톡 알림
 
+배운 내용
+
+- React를 통한 FE 구현
+- Redux를 활용한 상태관리
+- SMS를 통한 핸드폰번호 확인, 카카오 로그인, JWT 등의 Auth
 
 <br>
 
-<div style="background-color: #e2e2e2;">
-    <a href="https://github.com/MoCCo329/ImTeller" style="text-decoration: none"><h3>3. ImTeller - NFT그림을 활용 할 수 있는 보드게임 서비스</h5></a>
-    <img src="https://user-images.githubusercontent.com/97646630/198865662-76d4cfde-0fef-4514-aabf-9ead5d32474f.png" width="100%">
-    <p>기간: 2022.08.22 ~ 2022.10.07</p>
-    <p>인원: 프론트앤드2, 백엔드2, SmartContract1</p>
-    <p>기술: React, Spring Boot, MySQL, Solidity, Truffle, NginX, Jenkins, Aws, Docker, GitLab, Jira</p>
-    <p>서비스 내용</p>
-    <ul>
-        <li>본인이 그린 그림을 일정 토큰을 지불하여 민팅 가능</li>
-        <li>기본 카드나, 아이템이 있는 NFT카드를 이용해 카드게임 진행</li>
-        <li>투표를 통해 이달의 그림으로 뽑히면 무료 민팅 가능</li>
-        <li>거래소에서 NFT 거래 가능</li>
-    </ul>
-    <p>배운 내용</p>
-    <ul>
-        <li>WebSocket을 통한 실시간 게임 구현</li>
-        <li>Ethereum Network, Web3</li>
-    </ul>
-</div>
+#### 3. ImTeller - NFT그림을 활용 할 수 있는 보드게임 서비스 [링크](https://github.com/MoCCo329/ImTeller)
+<img src="README.assets/198865662-76d4cfde-0fef-4514-aabf-9ead5d32474f.png" width="100%">
+
+기간: 2022.08.22 ~ 2022.10.07
+인원: 프론트앤드2, 백엔드2, SmartContract1
+기술: React, Spring Boot, MySQL, Solidity, Truffle, NginX, Jenkins, Aws, Docker, GitLab, Jira
+서비스 내용
+
+- 본인이 그린 그림을 일정 토큰을 지불하여 민팅 가능
+- 기본 카드나, 아이템이 있는 NFT카드를 이용해 카드게임 진행
+- 투표를 통해 이달의 그림으로 뽑히면 무료 민팅 가능
+- 거래소에서 NFT 거래 가능
+
+배운 내용
+
+- WebSocket을 통한 실시간 게임 구현
+- Ethereum Network, Web3
+
