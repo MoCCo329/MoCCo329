@@ -106,7 +106,7 @@
 
 #### 3. HTWM(HomeTrainingWithMirror) - 거울과 화면을 동시에 보며 혼자서, 혹은 화상통화로 함께 운동하는 서비스 [링크](https://github.com/MoCCo329/HTWM)
 
-![VideoCapture_20230502-061045](C:\Users\kd831\OneDrive\바탕 화면\MoCCo329\README.assets\VideoCapture_20230502-061045-16829757153707.jpg)
+![VideoCapture_20230502-061045](C:\Users\kd831\OneDrive\바탕 화면\MoCCo329\README.assets\VideoCapture_20230502-061045-16829789795011.jpg)
 
 기간: 2022.10.11 ~ 2022.11.25<br>
 인원: Device FE 1, APP FE 2, BE 1, Embedded 1, MotionRecognition 1<br>
